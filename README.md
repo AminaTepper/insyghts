@@ -1,6 +1,4 @@
-# insyghts
-A curated collection of my published articles on AI, Cloud Architecture, and Digital Transformation
-📁 # 🧠 Amina Shahzad | Medium Blog Archive  
+# 🧠 Amina Shahzad | Medium Blog Archive  
 
 This repository curates my published articles from [Medium](https://medium.com/@amina.shahzad), covering topics across **AI, Cloud Architecture, Human-Centered Design, and Digital Transformation**.  
 
@@ -33,4 +31,4 @@ A candid reflection on pursuing a graduate degree while managing full-time work,
 ## 🧩 About  
 I’m a **Sr. Solution Architect** leading enterprise cloud modernization and AI transformation. My writing explores how technology, design, and leadership converge to create scalable, human-centered innovation.  
 
-🔗 [Medium](https://medium.com/@amina.shahzad) | [LinkedIn](https://linkedin.com/in/amina.shahzad)
+🔗 [Medium](https://medium.com/@amina.shahzad) | [LinkedIn](https://linkedin.com/in/aminashah)
