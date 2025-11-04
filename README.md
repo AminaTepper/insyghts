@@ -33,4 +33,4 @@ A candid reflection on pursuing a graduate degree while managing full-time work,
 ## 🧩 About  
 I’m a **Sr. Solution Architect** leading enterprise cloud modernization and AI transformation. My writing explores how technology, design, and leadership converge to create scalable, human-centered innovation.  
 
-🔗 [Medium](https://medium.com/@amina.shahzad) | [LinkedIn](https://linkedin.com/in/aminashah)
+🔗 [Medium](https://medium.com/@amina.shahzad) | [LinkedIn](https://linkedin.com/in/amina.shahzad)
